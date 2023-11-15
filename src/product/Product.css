@@ -1,0 +1,50 @@
+.prodct{
+    display: flex;
+}
+.image{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.discription{
+    margin-top: 80px;
+}
+/* .rating{
+    width: 10px;
+} */
+.header{
+    width:80%
+}
+.explanation{
+    border-bottom: 1px solid gray;
+    width: 80%;
+    text-align: left;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+.color{
+    text-align: left;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.size{
+    text-align: left;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+
+.size-btn{
+  padding: 10px;
+  margin: 10px;
+  border-radius:10px;
+}
+
+.freedel{
+    border: 1px solid;
+    width: 50%;
+    margin-left: 110px;
+}
+.buy{
+    text-align: left;
+    margin-left: 110px;
+    display: flex;
+}

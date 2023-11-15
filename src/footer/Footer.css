@@ -1,0 +1,9 @@
+.footer{
+    display: flex;
+    /* align-items: normal; */
+    justify-content: space-around;
+    padding: 40px 0 40px 0;
+    border: 1px solid;
+    color: white;
+    background-color: black;
+}
